@@ -1,0 +1,5 @@
+# exclude node_modules and dist directory.
+/node_modules
+/node_modules/*
+/dist
+/dist/*
